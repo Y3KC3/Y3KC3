@@ -30,4 +30,5 @@
 ![file_type_netlify_icon_130354](https://user-images.githubusercontent.com/76851489/201485851-c7e7bafc-2b9f-4a9d-9985-dbca012cc44f.png)
 ![vercel_brand_icon_211876](https://user-images.githubusercontent.com/76851489/201485852-83e2d16b-5dbe-41c5-af95-b722cf95abef.png)
 ![5847f40ecef1014c0b5e488a](https://user-images.githubusercontent.com/76851489/214942189-64f167ac-6bfa-43fc-ad35-18ebb15dfa52.png)
+![Python-logo-notext svg](https://user-images.githubusercontent.com/76851489/224462861-b1740bca-ed29-43bd-a7a1-d95a1259867e.png)
 
