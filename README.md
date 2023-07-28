@@ -33,5 +33,5 @@
 ![Python-logo-notext svg](https://user-images.githubusercontent.com/76851489/224462861-b1740bca-ed29-43bd-a7a1-d95a1259867e.png)
 ![npm-3-1175132](https://user-images.githubusercontent.com/76851489/225109218-f98c760b-b5f7-4f66-8b36-f2ed37de5148.png)
 ![unity](https://github.com/Y3KC3/Y3KC3/assets/76851489/373ac4b9-10e9-4172-801b-a57074809e16)
-![c#](https://github.com/Y3KC3/Y3KC3/assets/76851489/5d9d4b69-fc16-4167-8341-3708a2d90496)
-![blender](https://github.com/Y3KC3/Y3KC3/assets/76851489/c029e441-4d71-4f94-bae6-439a8a74ca76)
+![c_sharp_icon_213045](https://github.com/Y3KC3/Y3KC3/assets/76851489/026de160-2f52-4169-a569-33c618ec676b)
+![Blender_23505](https://github.com/Y3KC3/Y3KC3/assets/76851489/3dd4d2bc-6624-4b79-b664-b4d6aab91381)
