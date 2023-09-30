@@ -35,3 +35,8 @@
 ![unity](https://github.com/Y3KC3/Y3KC3/assets/76851489/373ac4b9-10e9-4172-801b-a57074809e16)
 ![c_sharp_icon_213045](https://github.com/Y3KC3/Y3KC3/assets/76851489/026de160-2f52-4169-a569-33c618ec676b)
 ![Blender_23505](https://github.com/Y3KC3/Y3KC3/assets/76851489/3dd4d2bc-6624-4b79-b664-b4d6aab91381)
+![eslint2-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/3d7d3fd6-7846-4689-b401-00373b6cfd60)
+![typescript-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/32f1b61f-70b7-41d8-bad7-99da7ac87be2)
+![tailwind-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/e919dda3-e109-4ade-8662-c2f0dcba4a69)
+![nextjs-icon-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/929c58da-c909-4a04-bd35-b3723cdfd18e)
+![nestjs-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/9b437bbc-b2c6-408a-8733-4d634a0e7330)
