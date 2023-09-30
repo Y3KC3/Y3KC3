@@ -1,4 +1,4 @@
-![tailwind-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/9ba5cdbf-6cc2-461a-a5ea-f8fed774bb75)# Hola, me llamo Melvin 👋
+# Hola, me llamo Melvin 👋
 
 #### 🔭 Actualmente, soy estudiante de ingeniería en sistemas, tengo conocimiento amplio en programación, redes, servidores y sistemas operativos, estoy trabajando freelance remoto haciendo proyectos escalables de corto a largo plazo. 
 
@@ -35,8 +35,3 @@
 ![unity](https://github.com/Y3KC3/Y3KC3/assets/76851489/373ac4b9-10e9-4172-801b-a57074809e16)
 ![c_sharp_icon_213045](https://github.com/Y3KC3/Y3KC3/assets/76851489/026de160-2f52-4169-a569-33c618ec676b)
 ![Blender_23505](https://github.com/Y3KC3/Y3KC3/assets/76851489/3dd4d2bc-6624-4b79-b664-b4d6aab91381)
-![Uploading tailwi![typescript-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/d69d7c1b-d0a4-413c-b4e8-5b48281d0a20)
-![nextjs-icon-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/d907b6d4-e9ac-47d8-8479-b2979d3a481f)
-![nestjs-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/8d53fad1-aff9-4d20-aa01-2dcb09c38afc)
-![eslint2-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/95b79598-2e30-40f3-8a4b-78e26e61216a)
-nd-svgrepo-com.svg…]()
