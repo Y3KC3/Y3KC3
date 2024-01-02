@@ -40,3 +40,6 @@
 ![tailwind-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/e919dda3-e109-4ade-8662-c2f0dcba4a69)
 ![nextjs-icon-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/929c58da-c909-4a04-bd35-b3723cdfd18e)
 ![nestjs-svgrepo-com](https://github.com/Y3KC3/Y3KC3/assets/76851489/9b437bbc-b2c6-408a-8733-4d634a0e7330)
+![flutter](https://github.com/Y3KC3/Y3KC3/assets/76851489/67862487-dfa9-46f0-8b6d-ee53ec6551e6)
+![dart](https://github.com/Y3KC3/Y3KC3/assets/76851489/f55759af-55e1-43d1-9d1e-f1207045709e)
+![google-play](https://github.com/Y3KC3/Y3KC3/assets/76851489/5090f12d-f21b-4284-bda4-090cded8ccf8)
