@@ -46,3 +46,4 @@
 ![google-play](https://github.com/Y3KC3/Y3KC3/assets/76851489/5090f12d-f21b-4284-bda4-090cded8ccf8)
 ![java](https://github.com/Y3KC3/Y3KC3/assets/76851489/c63080ee-59de-4865-896e-1c93d0ddd6c6)
 ![netbeans](https://github.com/Y3KC3/Y3KC3/assets/76851489/1d86f7cd-8024-4252-bf40-675ab4c1ef7a)
+![file_type_angular_icon_130754](https://github.com/user-attachments/assets/df5cf3c0-b24f-4ed7-b434-9706e7676d0e)
