@@ -48,3 +48,6 @@
 ![netbeans](https://github.com/Y3KC3/Y3KC3/assets/76851489/1d86f7cd-8024-4252-bf40-675ab4c1ef7a)
 ![file_type_angular_icon_130754](https://github.com/user-attachments/assets/df5cf3c0-b24f-4ed7-b434-9706e7676d0e)
 ![postgresql_plain_logo_icon_146389](https://github.com/user-attachments/assets/b91e6d76-00a4-48b9-a526-0840019562c1)
+![file_type_pug_icon_130225](https://github.com/user-attachments/assets/085939a1-af4c-4198-980b-d86f2b8d0a57)
+![file_type_ejs_icon_130626](https://github.com/user-attachments/assets/38af2c4b-65e6-4fdf-acd5-e4508144fe7f)
+![file_type_handlebars_icon_130555](https://github.com/user-attachments/assets/ffc4f956-3669-4003-bbf3-26b2226b7925)
