@@ -73,3 +73,4 @@ Si tienes un proyecto en mente o necesitas apoyo técnico, no dudes en escribirm
 ![file_type_pug_icon_130225](https://github.com/user-attachments/assets/085939a1-af4c-4198-980b-d86f2b8d0a57)
 ![file_type_ejs_icon_130626](https://github.com/user-attachments/assets/38af2c4b-65e6-4fdf-acd5-e4508144fe7f)
 ![file_type_handlebars_icon_130555](https://github.com/user-attachments/assets/ffc4f956-3669-4003-bbf3-26b2226b7925)
+![202809_redis_icon](https://github.com/user-attachments/assets/c5bff170-db25-48d6-a73b-930e6394f74f)
