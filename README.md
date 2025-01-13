@@ -76,3 +76,6 @@ Si tienes un proyecto en mente o necesitas apoyo técnico, no dudes en escribirm
 ![202809_redis_icon](https://github.com/user-attachments/assets/c5bff170-db25-48d6-a73b-930e6394f74f)
 ![file_type_sass_icon_130182](https://github.com/user-attachments/assets/846d9283-9bc7-4c0c-be59-432cd9d06cca)
 ![less_plain_wordmark_logo_icon_146437](https://github.com/user-attachments/assets/249c44e6-47aa-49e8-855a-6acb471d9170)
+![yarn_original_wordmark_logo_icon_146288](https://github.com/user-attachments/assets/c58802c6-aec3-45dd-a939-19d459607da6)
+![logo-square](https://github.com/user-attachments/assets/dfea35a7-cf2f-4688-acfb-ef9176c60d29)
+![descarga](https://github.com/user-attachments/assets/3fc358fe-d49c-400b-8804-e338b4bf6422)
