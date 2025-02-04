@@ -23,7 +23,8 @@ Puedo ayudarte en la creación de:
 - 🖥️ Aplicaciones de escritorio  
 - 📱 Aplicaciones móviles  
 - 🗄️ Bases de datos  
-- ☁️ Configuración y despliegue de servidores  
+- ☁️ Configuración y despliegue de servidores
+- 🧑‍💻 Scripts y automatizaciones
 
 Mi objetivo es siempre la **eficiencia**, la **innovación**, y el **trabajo colaborativo** para obtener resultados que superen las expectativas.  
 
